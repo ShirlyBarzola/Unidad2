@@ -1,0 +1,11 @@
+body{
+    background-image: url("assets/img/background.webp");
+    background-size: cover;
+}
+.contenedor{
+    border: 10px inset blueviolet;
+    padding: 30px;
+    text-align: center;
+    margin: 20px;
+    display: inline-block;
+}
